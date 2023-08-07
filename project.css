@@ -1,0 +1,321 @@
+.a{
+	background-color: lightgrey;
+	height: 3000px;
+	width: 1500px;
+	margin: 10px;
+}
+.b{
+	height: 600px;
+	background-color: powderblue;
+}
+.c{
+	height: 600px;
+	width: 750px;
+	float: left;
+	background-color: whitesmoke;
+
+}
+.d{
+	height: 600px;
+	width: 750px;
+	float: right;
+	background-color: whitesmoke;
+
+}
+.e{
+	height: 600px;
+	width: 1000px;
+	padding-bottom:30px;
+}
+.a1{
+	font-size: 24px;
+	color: powderblue;
+	font-family: Lucida Sans;
+	padding-left: 120px;
+	padding-top: 130px;
+}
+.a2{
+	font-size: 50px;
+	color: powderblue;
+	font-family:Trebuchet MS;
+	padding-left: 145px;
+}
+.a3{
+	padding-left: 145px;
+	font-size: 18	px;
+	color: black;
+
+}
+.a4{
+	background-color: powderblue;
+	color: white;
+	width: 80px;
+	margin-left: 260px;
+	text-align: center;
+	border-radius: 45px;
+}
+
+
+.ca{
+	height: 800px;
+	width: 1500px;
+	background-color: snow;
+
+}
+.cb{
+	height: 800px;
+	width: 750px;
+	background-color: powderblue;
+	float: left;
+}
+.cd{
+	height: 800px;
+	width: 750px;
+	background-color: snow;
+	float: right;
+}
+.c1{
+	font-size: 18px;
+	font-family: sans-serif;
+	padding-top: 50px;
+}
+.c2{
+	font-size: 36px;
+	color: powderblue;
+}
+.c3{
+	font-size: 20px;
+	color: grey;
+	padding-left:120px;
+}
+.c4{
+	font-size: 20px;
+	color: grey;
+	padding-left:220px;
+	padding-top: 40px;
+}
+.c5{
+	background-color: powderblue;
+	font-size: 18px;
+	font-family: sans-serif;
+	padding-top: 40px;
+	float: right;
+	height: 500px;
+	padding-right: 50px;
+}
+.c6{
+	padding-left: 850px;
+	border-radius: 45px;
+	text-align: center;
+	width: 0px;
+
+}
+.g2{
+	height: 300px;
+	width: 1000px;
+	margin-left: 150px;
+	text-align: center;
+}
+
+.g21{
+	display: inline-block;
+	width: 290px;
+	height: 300px;
+	margin: 10px;
+
+}
+
+.g22{
+	vertical-align:top;
+    display: inline-block;
+	width: 290px;
+	height: 300px;
+	margin: 10px;
+	
+}
+
+.g23{
+	vertical-align:top;
+    display: inline-block;
+	width: 290px;
+	height: 300px;
+	margin: 10px;
+	
+}
+
+/*img{
+	height: 150px;
+	width: 200px;
+	border-radius: 50%;
+}
+*/
+
+
+.H{
+	height: 500px;
+	width: 1218px;
+	background-color: rgb(176, 234, 247);
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.h1{
+	height: 90px;
+	width: 1218px;
+	text-align: center;
+	line-height: 90px;
+	color: blue;
+
+}
+
+.h2{
+	height: 400px;
+	width: 500px;
+	display: inline-block;	
+	margin-left: 80px;
+}
+
+.h21{
+	height: 200px;
+	width: 500px;
+	float: right;
+}
+
+.h211{
+	height: 200px;
+	width: 150px;
+	display: inline-block;
+
+}
+
+/*img{
+	height: 130px;
+	width: 130px;
+	border-radius: 50%;
+}*/
+
+.h212{
+	display: inline-block;
+	vertical-align: top;
+	height: 200px;
+	width: 330px;
+	line-height: 20px;
+
+}
+
+.h22{
+	height: 200px;
+	width: 500px;	
+}
+
+.h221{
+	height: 200px;
+	width: 150px;
+	display: inline-block;
+
+}
+
+.h222{
+	display: inline-block;
+	vertical-align: top;
+	height: 200px;
+	width: 330px;
+	line-height: 20px;
+
+}
+
+.h3{
+	display: inline-block;
+	vertical-align: top;
+	height: 400px;
+	width: 500px;
+	margin-left: 50px;
+}
+
+.h31{
+	height: 200px;
+	width: 500px;
+}
+
+.h311{
+	height: 200px;
+	width: 150px;
+	display: inline-block;
+
+}
+
+.h312{
+	display: inline-block;
+	vertical-align: top;
+	height: 200px;
+	width: 330px;
+	line-height: 20px;
+
+}
+
+
+.h32{
+	height: 200px;
+	width: 500px;
+}
+
+.h321{
+	height: 200px;
+	width: 150px;
+	display: inline-block;
+
+}
+
+.h322{
+	display: inline-block;
+	vertical-align: top;
+	height: 200px;
+	width: 330px;
+	line-height: 20px;
+
+}
+
+.I{
+	height: 500px;
+	width: 1218px;
+	background-color: rgb(220, 245, 196);
+	margin-top: 20px;
+	position: relative;
+}
+
+.i1{ 
+	height: 200px;
+	width: 1218px;
+
+}
+
+.i1 img{
+    width: 1218px;
+    height: 300px;
+}
+
+.i2{
+	height: 300px;
+	width: 1000px;
+	margin-left: 100px;
+	text-align: center;
+	background-color: white;
+	position: absolute;
+	bottom: 20px;
+}
+
+.i3{
+	padding-top: 30px;
+}
+
+.i4{
+	margin-top: 30px;
+}
+
+.i5{
+	margin-top: 20px;
+	padding: 10px 400px; 
+	background-color: blue;
+	color: white;
+
+}
